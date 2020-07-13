@@ -27,7 +27,13 @@
 - 📜 Certifications: 
 
      - **Udacity Cloud DevOps Engineer** - https://bit.ly/huda-devops
-
      - **Microsoft Certified: Azure Fundamentals** - https://bit.ly/henry-az900
 
-          <!--- 👯 I’m looking to collaborate on ...-->
+- 🥑 Community Affiliations:
+
+     - Organizer, [South-East Nigeria .NET and Azure User Community](https://bit.ly/dotnetse) 
+     - [Azure Nigeria User Group](http://meetu.ps/c/4tF5F/Ly0D8/d) 
+     - [GDG Owerri](http://meetu.ps/c/4x8sd/Ly0D8/d)
+
+     <!--- 👯 I’m looking to collaborate on ...-->
+
