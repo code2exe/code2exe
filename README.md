@@ -13,7 +13,7 @@
 
 - 🤔 I’m looking for help with ***How to build a Unicorn in 5 years***
 
-- 💬 Ask me about ***Cloud Engineering (Azure, GCP, AWS, Digital Ocean) , Systems Administration, DevOps, CI/CD***
+- 💬 Ask me about ***Cloud Engineering (Azure, GCP, Oracle, AWS, Digital Ocean) , Systems Administration, DevOps, CI/CD***
 
 - 📫 How to reach me: 
 
