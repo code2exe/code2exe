@@ -28,6 +28,7 @@
 
      - **Udacity Cloud DevOps Engineer** - https://bit.ly/huda-devops
      - **Microsoft Certified: Azure Fundamentals** - https://bit.ly/henry-az900
+     - **Oracle Cloud Infrastructure Certified: Architect Associate** - https://bit.ly/horarch-assosciate
 
 - 🥑 Community Affiliations:
 
