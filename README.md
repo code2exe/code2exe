@@ -36,5 +36,5 @@
      - [Azure Nigeria User Group](http://meetu.ps/c/4tF5F/Ly0D8/d) 
      - [GDG Owerri](http://meetu.ps/c/4x8sd/Ly0D8/d)
 
-     <!--- 👯 I’m looking to collaborate on ...-->
+- 👯 I’m looking to collaborate on ... ***Anything Interesting***
 
