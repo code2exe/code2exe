@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.com/code2exe/code2exe.svg)](http://hits.dwyl.com/code2exe/code2exe)
 ## Nnoo Nu 👋
 
 <!--
