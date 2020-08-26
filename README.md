@@ -25,11 +25,17 @@
 
 - ⚡ Fun fact: *I love beer*
 
-- 📜 Certifications: 
+- 📜 Certifications and Awards: 
 
      - **Udacity Cloud DevOps Engineer** - https://bit.ly/huda-devops
      - **Microsoft Certified: Azure Fundamentals** - https://bit.ly/henry-az900
-     - **Oracle Cloud Infrastructure Certified: Architect Associate** - https://bit.ly/horarch-assosciate
+     - **Microsoft Certified: AI Fundamentals** - https://bit.ly/henry-ai900
+     - **Oracle Cloud Infrastructure 2019 Certified Architect Professional** - https://bit.ly/horarch-pro
+     - **Oracle Cloud Infrastructure 2019 Certified Architect Associate** - https://bit.ly/horarch-assosciate
+     - **Oracle Cloud Infrastructure Foundations 2020 Certified Associate** - https://bit.ly/hoci-foundations
+     - **Oracle Cloud Infrastructure 2019 Cloud Operations Certified Associate** - https://bit.ly/hoci-operations
+     - **Oracle Autonomous Database Cloud 2019 Certified Specialist** - https://bit.ly/hoci-db
+     
 
 - 🥑 Community Affiliations:
 
