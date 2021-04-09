@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on ***Building ByteStax to be a world leader in integrating cloud solutions and providing consulting services for enterprises***
+- 🔭 I’m currently working on ***Building ByteStacx to be a world leader in integrating cloud solutions and providing consulting services for enterprises***
 
 - 🌱 I’m currently learning ***Cloud Solutions Architecture***
 
