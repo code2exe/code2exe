@@ -1,4 +1,7 @@
 [![HitCount](http://hits.dwyl.com/code2exe/code2exe.svg)](http://hits.dwyl.com/code2exe/code2exe)
+
+<img src="https://github-readme-stats.vercel.app/api?username=code2exe&show_icons=true&hide_border=true&theme=radical" />
+
 ## Nnoo Nu 👋
 
 <!--
