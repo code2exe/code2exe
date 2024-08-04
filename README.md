@@ -5,7 +5,7 @@
 <!--
 **code2exe/code2exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-#### I am Henry Ezedinma; an aspiring Cloud Solutions Architect, Microsoft Student Ambassador, Conference Speaker, Tech Community Advocate, DevOps Engineer and currently working freelance in designing, building and shipping custom software solutions.
+#### I am Henry Ezedinma; a Cloud Solutions Architect, Community Builder and DevSecOps Engineer.
 
 
 
