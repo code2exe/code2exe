@@ -19,7 +19,6 @@
 
 - 📫 How to reach me: 
 
-     - *[Twitter](https://twitter.com/10xGeek)*
      - *[LinkedIn](https://linkedin.com/in/henryezed)*
 
 - 😄 Pronouns: *He/Him/Engr😎*
