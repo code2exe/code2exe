@@ -8,8 +8,9 @@
 #### I am Henry Ezedinma; a Cloud Solutions Architect, Community Builder and DevSecOps Engineer.
 
 
-
+<!---
 - 🔭 I’m currently working on ***Building ByteStacx to be a world leader in integrating cloud solutions and providing consulting services for enterprises***
+-->
 
 - 🌱 I’m currently learning ***Cloud Solutions Architecture***
 
