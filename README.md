@@ -1,11 +1,11 @@
-<img src="https://github-readme-stats.vercel.app/api?username=code2exe&show_icons=true&hide_border=true&theme=radical" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code2exe&show_icons=true&layout=compact&hide_border=true&theme=radical" />
+<img src="https://github-stats-extended.vercel.app/api?username=code2exe&show_icons=true&hide_border=true&theme=radical" />  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=code2exe&show_icons=true&layout=compact&hide_border=true&theme=radical" />
 
 ## Nnoo Nu 👋
 
 <!--
 **code2exe/code2exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-#### I am Henry Ezedinma; a Cloud Solutions Architect, Community Builder and DevSecOps Engineer.
+#### I am Henry; a Cloud Solutions Architect, Community Builder and DevSecOps Engineer.
 
 
 <!---
@@ -31,6 +31,8 @@
      - **Udacity Cloud DevOps Engineer** - https://bit.ly/huda-devops
      - **Microsoft Certified: Azure Fundamentals** - https://bit.ly/henry-az900
      - **Microsoft Certified: AI Fundamentals** - https://bit.ly/henry-ai900
+     - **KCNA: Kubernetes and Cloud Native Associate** - https://bit.ly/hezed-kcna
+     - **KCSA: Kubernetes and Cloud Native Security Associate** - https://bit.ly/hezed-kcsa
      - **Oracle Cloud Infrastructure 2019 Certified Architect Professional** - https://bit.ly/horarch-pro
      - **Oracle Cloud Infrastructure 2019 Certified Architect Associate** - https://bit.ly/horarch-assosciate
      - **Oracle Cloud Infrastructure Foundations 2020 Certified Associate** - https://bit.ly/hoci-foundations
