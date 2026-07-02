@@ -35,6 +35,7 @@
      - **Udacity Cloud DevOps Engineer** - https://bit.ly/huda-devops
      - **Microsoft Certified: Azure Fundamentals** - https://bit.ly/henry-az900
      - **Microsoft Certified: AI Fundamentals** - https://bit.ly/henry-ai900
+     - **Certified Jenkins Engineer** - https://bit.ly/henry-cje
      - **KCNA: Kubernetes and Cloud Native Associate** - https://bit.ly/hezed-kcna
      - **KCSA: Kubernetes and Cloud Native Security Associate** - https://bit.ly/hezed-kcsa
      - **Oracle Cloud Infrastructure 2019 Certified Architect Professional** - https://bit.ly/horarch-pro
