@@ -1,4 +1,8 @@
-<img src="https://github-stats-extended.vercel.app/api?username=code2exe&show_icons=true&hide_border=true&theme=radical" />  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=code2exe&show_icons=true&layout=compact&hide_border=true&theme=radical" />
+<!-- <img src="https://github-stats-extended.vercel.app/api?username=code2exe&show_icons=true&hide_border=true&theme=radical" />   -->
+<img src="https://github-stats-extended.vercel.app/api/?username=code2exe&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" />  
+
+<img src ="https://github-stats-extended.vercel.app/api/top-langs?username=code2exe&layout=donut-vertical&hide_values=true&theme=calm" />
+<!-- <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=code2exe&show_icons=true&layout=compact&hide_border=true&theme=radical" /> -->
 
 ## Nnoo Nu 👋
 
