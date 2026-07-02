@@ -38,12 +38,13 @@
      - **Certified Jenkins Engineer** - https://bit.ly/henry-cje
      - **KCNA: Kubernetes and Cloud Native Associate** - https://bit.ly/hezed-kcna
      - **KCSA: Kubernetes and Cloud Native Security Associate** - https://bit.ly/hezed-kcsa
+  <!---
      - **Oracle Cloud Infrastructure 2019 Certified Architect Professional** - https://bit.ly/horarch-pro
      - **Oracle Cloud Infrastructure 2019 Certified Architect Associate** - https://bit.ly/horarch-assosciate
      - **Oracle Cloud Infrastructure Foundations 2020 Certified Associate** - https://bit.ly/hoci-foundations
      - **Oracle Cloud Infrastructure 2019 Cloud Operations Certified Associate** - https://bit.ly/hoci-operations
      - **Oracle Autonomous Database Cloud 2019 Certified Specialist** - https://bit.ly/hoci-db
-     
+  -->
 
 - 🥑 Community Affiliations:
 
